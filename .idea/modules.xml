@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/street.iml" filepath="$PROJECT_DIR$/street.iml" />
+      <module fileurl="file://$PROJECT_DIR$/street-admin/street-admin.iml" filepath="$PROJECT_DIR$/street-admin/street-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/street-common/street-common.iml" filepath="$PROJECT_DIR$/street-common/street-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/street-framework/street-framework.iml" filepath="$PROJECT_DIR$/street-framework/street-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/street-generator/street-generator.iml" filepath="$PROJECT_DIR$/street-generator/street-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/street-quartz/street-quartz.iml" filepath="$PROJECT_DIR$/street-quartz/street-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/street-system/street-system.iml" filepath="$PROJECT_DIR$/street-system/street-system.iml" />
+    </modules>
+  </component>
+</project>

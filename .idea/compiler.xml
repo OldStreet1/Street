@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="street-system" />
+        <module name="street-admin" />
+        <module name="street-framework" />
+        <module name="street-generator" />
+        <module name="street-quartz" />
+        <module name="street-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="street" target="1.8" />
+      <module name="street-admin" target="1.8" />
+      <module name="street-common" target="1.8" />
+      <module name="street-framework" target="1.8" />
+      <module name="street-generator" target="1.8" />
+      <module name="street-quartz" target="1.8" />
+      <module name="street-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

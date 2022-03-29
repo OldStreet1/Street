@@ -1,0 +1,4 @@
+项目信息
+Application Version: ${ruoyi.version}
+Spring Boot Version: ${spring-boot.version}
+       Server  Port: ${server.port}
