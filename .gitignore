@@ -1,0 +1,7 @@
+# Project exclude paths
+/street-admin/target/
+/street-common/target/
+/street-framework/target/
+/street-generator/target/
+/street-quartz/target/
+/street-system/target/
